@@ -1,0 +1,3 @@
+[submodule "src/web-a"]
+	path = src/web-a
+	url = git@github.com:CatheCat/sample-project-v3.git
